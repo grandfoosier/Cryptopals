@@ -1,7 +1,7 @@
 import binascii
 import array
 
-fname = "Ex1_5.txt"
+fname = "CP1_5.txt"
 
 def strxor(a1, a2):
     a3 = array.array('B', a1)
